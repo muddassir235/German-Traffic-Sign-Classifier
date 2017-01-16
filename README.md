@@ -5,7 +5,7 @@
 
 In this project, I used deep neural networks and convolutional neural networks to classify traffic signs. I trained my model using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After training I was able to get a [validation set](https://en.wikipedia.org/wiki/Test_set#Validation_set) accuracy of approximately 99.8% and test set Accuracy of **95.8%.**
 
-![]
+![](https://github.com/muddassir235/German-Traffic-Sign-Classifier/blob/master/Files/conv_net.png?raw=true)
 ### Model Specs
 - A model of about **13 million** neurons
 - It has **7 layers**, two of which are convolutional, four are fully connected and an output layer.
@@ -47,8 +47,12 @@ Run this command at the terminal prompt to install [OpenCV](http://opencv.org/).
 1. [Download the dataset](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip). This is a pickled dataset in which we've already resized the images to 32x32.
 2. Clone the project and start the notebook.
 ```
-git clone https://github.com/muddassir235/CarND-Traffic-Signs
+git clone https://github.com/muddassir235/German-Traffic-Sign-Classifier
 cd CarND-Traffic-Signs
 jupyter notebook Traffic_Signs_Recognition.ipynb
 ```
 3. You can now run and modify the code in python jupyter notebook :-).
+4. Please feel free to make a pull request for sharing improvements to the code. That will make me realy happy :-).
+
+### License
+This project is distributed under the Apache 2.0 [license](https://github.com/muddassir235/German-Traffic-Sign-Classifier/blob/master/license.md).
