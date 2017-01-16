@@ -42,14 +42,14 @@ Run this command at the terminal prompt to install [OpenCV](http://opencv.org/).
 
 - `conda install -c https://conda.anaconda.org/menpo opencv3`
 
-### Dataset
+### Get it working
 
 1. [Download the dataset](https://d17h27t6h515a5.cloudfront.net/topher/2016/November/581faac4_traffic-signs-data/traffic-signs-data.zip). This is a pickled dataset in which we've already resized the images to 32x32.
 2. Clone the project and start the notebook.
 ```
 git clone https://github.com/muddassir235/German-Traffic-Sign-Classifier
-cd CarND-Traffic-Signs
-jupyter notebook Traffic_Signs_Recognition.ipynb
+cd German-Traffic-Sign-Classifier
+jupyter notebook Traffic_Signs_Recognition_Solution.ipynb
 ```
 3. You can now run and modify the code in python jupyter notebook :-).
 4. Please feel free to make a pull request for sharing improvements to the code. That will make me realy happy :-).
