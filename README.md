@@ -56,3 +56,8 @@ jupyter notebook Traffic_Signs_Recognition_Solution.ipynb
 
 ### License
 This project is distributed under the Apache 2.0 [license](https://github.com/muddassir235/German-Traffic-Sign-Classifier/blob/master/license.md).
+
+
+## [Apps by Muddassir Ahmed](https://play.google.com/store/apps/developer?id=Muddassir+Khan):
+* https://play.google.com/store/apps/details?id=com.muddassirkhan.quran_android
+* https://play.google.com/store/apps/details?id=com.app.kitaabattawheed
